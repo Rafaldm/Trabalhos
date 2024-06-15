@@ -1,1 +1,6 @@
-print("hello World")
+print("Olá Rafael")
+print("Olá professora")
+print("conto com a sua colaboração para me dar", 5 + 5)
+print("pode ser também", 50 - 30 // 2 - 25)
+print("muito obrigado pela atenção")
+print("fim de código")
