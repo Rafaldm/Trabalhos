@@ -15,4 +15,4 @@ print(altura+"cm")
 print(peso+"KG")
 input("para confirmar digite ok: ")
 print("Seus dados foram registrados com sucesso, obrigado!")
-
+print("Fim de código!")
